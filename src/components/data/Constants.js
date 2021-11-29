@@ -1,9 +1,8 @@
 export const data = {
-  PLANT_PRICE: "Price ",
-  PLANT_LIGHT: "Light ",
-  PLANT_WATERING: "Watering ",
-  PLANT_MAINTENANCE: "Maintenance ",
-  PLANT_WHERETOGROW: "Position ",
+  PRODUCT_PRICE: "Price ",
+  PRODUCT_WEIGHT: "Weight ",
   ADD_TO_CART: "Add To Cart",
-  CAPTION: "Plant Planet",
+  REMOVE_FROM_CART: "Remove From Cart",
+  CAPTION: "Data Planet",
+  ADDED: "Added",
 };
